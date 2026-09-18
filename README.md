@@ -21,7 +21,7 @@
 </p>
 
 <h1 align="center">
- <a href="https://play.google.com/store/apps/details?id=com.banglalink.toffee"><img src="https://github.com/Jeshan-akand/Toffee-Channels-Link-Headers/blob/main/images/banner.jpeg"></a>
+ <a href="https://play.google.com/store/apps/details?id=com.banglalink.toffee"><img src="https://raw.githubusercontent.com/sm-monirulislam/Toffee-Auto-Update/main/image/banner.jpeg"></a>
 </h1>
 
 # 📒Introdicton 
